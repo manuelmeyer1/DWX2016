@@ -16,7 +16,7 @@ Untersuchen eines Layoutprozesses mit dem WPF Timeline Tool
 
 Gehen sie ihren Problemen mit der WPF Performance Suite auf den Grund
 
-![Der Perforator](WPF Performance Suite/images/Perforator2.png)
+![Der Perforator](WPF Performance Suite/images/Perforator2.PNG)
 
 ## WPF Memory Leaks
 
