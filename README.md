@@ -8,7 +8,7 @@ Dieses Repository enthält folgende Labs:
 
 Untersuchen eines Layoutprozesses mit dem WPF Timeline Tool
 
-![Timeline Tool](WPF Timeline Tool/images/timelinetool.png)
+![Timeline Tool](WPF Timeline Tool/images/timelinetool.PNG)
 
 # WPF Performance Suite
 
@@ -16,7 +16,7 @@ Untersuchen eines Layoutprozesses mit dem WPF Timeline Tool
 
 Gehen sie ihren Problemen mit der WPF Performance Suite auf den Grund
 
-![Der Perforator](WPF Performance Suite/images/perforator2.png)
+![Der Perforator](WPF Performance Suite/images/Perforator2.png)
 
 ## WPF Memory Leaks
 
@@ -32,7 +32,7 @@ Untersuchung von Memory Leaks mit dem Diagnostic Tools Window
 
 Analysieren Sie anhand eines Memory Dumps vom Kunden in Visual Studio 2015, was für eine Exception zum Absturz geführt hat.
 
-![Dump Analyse](VS2015 Crash Dump Analysis/images/dump.png)
+![Dump Analyse](VS2015 Crash Dump Analysis/images/dump.PNG)
 
 
 

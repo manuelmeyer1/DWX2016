@@ -1,6 +1,6 @@
 # Lab Visual Studio Crash Dump Debugging
 
-![Dump Analyse](./images/dump.png)
+![Dump Analyse](./images/dump.PNG)
 
 
 ## Lab 1: Post-Mortem Exception Analyse
@@ -28,7 +28,7 @@ Der Kunde hat ihnen vom produktiven System neben dem Dump auch das passende Symb
 Wenn das Visual Studio keine passende PDB Datei findet, dann wird die folgende Fehlermeldung (**No Symbols Loaded**) angezeigt:
 
 
-![Symbols not found](./images/pdb.png)
+![Symbols not found](./images/pdb.PNG)
 
 
 Der Callstack kann trotzdem angeschaut werden, enhält aber keine Angaben zu Zeilennummern und Codedateien.
@@ -37,7 +37,7 @@ Benutzen sie die **No Symbols Loaded** Seite um den Pfad zur PDB Datei anzugeben
 
 Sobald VS die Symbole geladen hat, sucht es nach der Datei Program.cs. Da diese nicht vorhanden ist wird ein File Dialog angezeigt, in welchem die Datei **Program.cs** angegeben werden kann:
 
-![Source not found](./images/nosource.png)
+![Source not found](./images/nosource.PNG)
 
 Klicken Sie hier auf abbrechen. 
 Schauen Sie sich den Callstack nochmals an. Es sind jetzt Zeilennummern ersichtlich.
@@ -46,7 +46,7 @@ Schauen Sie sich den Callstack nochmals an. Es sind jetzt Zeilennummern ersichtl
 
 Die Seite **Source not found** zeigt an, dass die Klasse Program.cs nicht gefunden wurde. 
 
-![Program.cs not found](./images/programcs.png)
+![Program.cs not found](./images/programcs.PNG)
 
 Klicken sie auf **Browse and find Program.cs** und geben sie den Pfad zur Program.cs Datei an.
 

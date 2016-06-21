@@ -1,8 +1,8 @@
 # Lab Timeline Tool
 
-![Das Timeline Tool](./images/timelinetool.png)
+![Das Timeline Tool](./images/timelinetool.PNG)
 
-![Das Timeline Tool](./images/timelinedetailsdrilldown.png)
+![Das Timeline Tool](./images/timelinedetailsdrilldown.PNG)
 
 
 ## Allgemeine Informationen
