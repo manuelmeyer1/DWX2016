@@ -50,11 +50,9 @@ Klicken sie auf den markierten Wert in der **Objects** Spalte vom zweiten Snapsh
 
 ![Memory Snapshots](./images/snap1.png)
 
-Benützen sie die Filter um 
+Spielen sie mit den Filtern um nach **Just my Code** und **Small Objects** zu filtern. 
 
 ![Heap View Filters](./images/heapview_filters.png)
-
-Spielen sie mit den Filtern um nach **Just my Code** und **Small Objects** zu filtern.
 
 Schauen sie sich die Einträge an und finden sie die problematischen Fenster. Benützen sie **Show Instances** aus dem Kontextmenü um die einzelnen Instanzen anzuzeigen.
 

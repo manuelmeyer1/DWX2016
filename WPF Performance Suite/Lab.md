@@ -1,6 +1,6 @@
 # Lab WPF Performance Suite
 
-![Der Perforator](./images/lab.png)
+![Der Perforator](./images/lab.PNG)
 
 
 
@@ -14,11 +14,11 @@ Die WPF Performance Suite enthält zwei Tools für die Analyse von WPF Anwendung
 
 Perforator:
 
-![Der Perforator](./images/perforator2.png)
+![Der Perforator](./images/Perforator2.PNG)
 
 Visual Profiler:
 
-![Der Visual Profiler](./images/visualprofiler.png)
+![Der Visual Profiler](./images/VisualProfiler.PNG)
 
 **Hinweis**
 
@@ -29,7 +29,7 @@ Des weiteren ist eine Demo-Anwendung enthalten:
 * BeetleMania
 
 Beetle Mania
-![Beetle Mania](./images/beetlemania.png)
+![Beetle Mania](./images/BeetleMania.png)
 
 
 

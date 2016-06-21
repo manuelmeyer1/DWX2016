@@ -37,7 +37,7 @@ Benutzen sie die **No Symbols Loaded** Seite um den Pfad zur PDB Datei anzugeben
 
 Sobald VS die Symbole geladen hat, sucht es nach der Datei Program.cs. Da diese nicht vorhanden ist wird ein File Dialog angezeigt, in welchem die Datei **Program.cs** angegeben werden kann:
 
-![Source not found](./images/nosource.PNG)
+![Source not found](./images/NoSource.PNG)
 
 Klicken Sie hier auf abbrechen. 
 Schauen Sie sich den Callstack nochmals an. Es sind jetzt Zeilennummern ersichtlich.
