@@ -2,7 +2,7 @@
 
 ![Das Timeline Tool](./images/timelinetool.png)
 
-![Das Timeline Tool](./images/timelinedetailsdrilldown.PNG)
+![Das Timeline Tool](./images/timelinedetailsdrilldown.png)
 
 
 ## Allgemeine Informationen
