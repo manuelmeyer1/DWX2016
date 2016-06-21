@@ -1,0 +1,1 @@
+D:\_BUCHE\TVD\_CONFERENCES\20160620_DWX_Troubleshooting\Labs\WPF Memory Leaks\code\MemoryLeaks\MemoryLeaks\bin\Debug\MemoryLeaks.exe.config

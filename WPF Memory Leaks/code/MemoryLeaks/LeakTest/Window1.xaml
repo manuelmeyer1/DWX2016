@@ -1,0 +1,42 @@
+﻿<Window x:Class="TestWpfApp.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:src="clr-namespace:TestWpfApp"
+    Title="TestWpfApp"
+    SizeToContent="WidthAndHeight"
+    ResizeMode="NoResize"
+    Left="200"
+    >
+  <Window.Resources>
+    <src:User x:Key="myDataSource" UserName="Joe"/>
+  </Window.Resources>
+
+  <Border Margin="5" BorderBrush="Aqua" BorderThickness="1" Padding="8" CornerRadius="3">
+    <StackPanel Name="mySP">
+     <StackPanel.DataContext>
+        <Binding Source="{StaticResource myDataSource}"/>
+      </StackPanel.DataContext>
+
+      <Label>Enter a User Name:</Label>
+      <TextBox Name="TextBox1"  Text="{Binding Path=UserName, UpdateSourceTrigger=PropertyChanged}"/>
+
+      <Label>User Name you entered:</Label>
+      <TextBlock Text="{Binding Source={StaticResource myDataSource}, Path=UserName}"/>
+      <Label>Select the binding/event method to test:</Label>
+      <ListBox SelectedIndex="0" Name="lb" Height="190">
+          <ListBoxItem>1.  [Developer Error] Improper use of Event Handlers</ListBoxItem>
+          <ListBoxItem>2.  [Developer Error] Improper use of Data Binding</ListBoxItem>
+          <ListBoxItem>3.  [Developer Error] Improper use of Command Binding</ListBoxItem>
+          <ListBoxItem>4.  [Developer Error] Improper use of Static Event Handlers</ListBoxItem>
+      </ListBox>
+      
+      <Button Margin="0,10,0,0" Click="OnBtn1Click" Height="35" VerticalAlignment="Top" Name="Btn1" HorizontalAlignment="Left" Width="120">
+        Launch Window
+      </Button>
+      <Button Margin="0,10,0,0" Click="OnBtn2Click" Height="35"  Name="Btn2" VerticalAlignment="Top" HorizontalAlignment="Left" Width="120">
+        Force GC
+      </Button>
+
+    </StackPanel>
+  </Border>
+</Window>

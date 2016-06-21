@@ -1,0 +1,20 @@
+﻿TestWpfApp
+
+
+winexe
+C#
+.cs
+D:\_BUCHE\TVD\_CONFERENCES\20160620_DWX_Troubleshooting\Labs\WPF Memory Leaks\code\MemoryLeaks\LeakTest\obj\Debug\
+TestWpfApp
+none
+false
+DEBUG;TRACE
+D:\_BUCHE\TVD\_CONFERENCES\20160620_DWX_Troubleshooting\Labs\WPF Memory Leaks\code\MemoryLeaks\LeakTest\App.xaml
+4-602069035
+21961458283
+91839427788
+17-117917157
+Software3DLeakWindow.xaml;TimedWindow.xaml;Window1.xaml;Window2.xaml;
+
+False
+
