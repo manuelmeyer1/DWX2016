@@ -1,0 +1,5746 @@
+----------------------------------------
+Timestamp: 07.05.2015 08:46:19
+Message: Logger was created successfully.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 9960
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 17848
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:46:19
+Message: Creating module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 9960
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 17848
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:46:19
+Message: Configuring module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 9960
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 17848
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:46:19
+Message: Creating catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 9960
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 17848
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:46:19
+Message: Configuring catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 9960
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 17848
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:46:19
+Message: Creating Mef container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 9960
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 17848
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:46:19
+Message: Configuring MEF container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 9960
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 17848
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:46:19
+Message: Configuring ServiceLocator singleton
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 9960
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 17848
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:46:19
+Message: Configuring region adapters
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 9960
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 17848
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:46:19
+Message: Configuring default region behaviors
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 9960
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 17848
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:46:19
+Message: Registering Framework Exception Types
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 9960
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 17848
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:46:19
+Message: Creating shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 9960
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 17848
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:46:20
+Message: Setting the RegionManager.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 9960
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 17848
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:46:20
+Message: Updating Regions.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 9960
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 17848
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:46:20
+Message: Initializing shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 9960
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 17848
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:46:21
+Message: Initializing modules
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 9960
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 17848
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:46:21
+Message: Bootstrapper sequence completed
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 9960
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 17848
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:49:44
+Message: Logger was created successfully.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 17000
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 14780
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:49:44
+Message: Creating module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 17000
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 14780
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:49:44
+Message: Configuring module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 17000
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 14780
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:49:44
+Message: Creating catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 17000
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 14780
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:49:44
+Message: Configuring catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 17000
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 14780
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:49:45
+Message: Creating Mef container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 17000
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 14780
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:49:45
+Message: Configuring MEF container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 17000
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 14780
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:49:45
+Message: Configuring ServiceLocator singleton
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 17000
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 14780
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:49:45
+Message: Configuring region adapters
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 17000
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 14780
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:49:45
+Message: Configuring default region behaviors
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 17000
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 14780
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:49:45
+Message: Registering Framework Exception Types
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 17000
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 14780
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:49:45
+Message: Creating shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 17000
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 14780
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:49:45
+Message: Setting the RegionManager.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 17000
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 14780
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:49:45
+Message: Updating Regions.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 17000
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 14780
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:49:45
+Message: Initializing shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 17000
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 14780
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:49:46
+Message: Initializing modules
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 17000
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 14780
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 07.05.2015 08:49:46
+Message: Bootstrapper sequence completed
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 17000
+Process Name: E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 14780
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.09.2015 15:24:40
+Message: Logger was created successfully.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 2216
+Process Name: D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 11404
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.09.2015 15:24:40
+Message: Creating module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 2216
+Process Name: D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 11404
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.09.2015 15:24:40
+Message: Configuring module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 2216
+Process Name: D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 11404
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.09.2015 15:24:40
+Message: Creating catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 2216
+Process Name: D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 11404
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.09.2015 15:24:40
+Message: Configuring catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 2216
+Process Name: D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 11404
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.09.2015 15:24:40
+Message: Creating Mef container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 2216
+Process Name: D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 11404
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.09.2015 15:24:40
+Message: Configuring MEF container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 2216
+Process Name: D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 11404
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.09.2015 15:24:40
+Message: Configuring ServiceLocator singleton
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 2216
+Process Name: D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 11404
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.09.2015 15:24:40
+Message: Configuring region adapters
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 2216
+Process Name: D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 11404
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.09.2015 15:24:40
+Message: Configuring default region behaviors
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 2216
+Process Name: D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 11404
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.09.2015 15:24:40
+Message: Registering Framework Exception Types
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 2216
+Process Name: D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 11404
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.09.2015 15:24:40
+Message: Creating shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 2216
+Process Name: D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 11404
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.09.2015 15:24:40
+Message: Setting the RegionManager.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 2216
+Process Name: D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 11404
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.09.2015 15:24:40
+Message: Updating Regions.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 2216
+Process Name: D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 11404
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.09.2015 15:24:40
+Message: Initializing shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 2216
+Process Name: D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 11404
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.09.2015 15:24:41
+Message: Initializing modules
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 2216
+Process Name: D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 11404
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.09.2015 15:24:41
+Message: Bootstrapper sequence completed
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 2216
+Process Name: D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 11404
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:30:41
+Message: Logger was created successfully.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 1596
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 23516
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:30:41
+Message: Creating module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 1596
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 23516
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:30:41
+Message: Configuring module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 1596
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 23516
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:30:41
+Message: Creating catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 1596
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 23516
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:30:41
+Message: Configuring catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 1596
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 23516
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:30:42
+Message: Creating Mef container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 1596
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 23516
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:30:42
+Message: Configuring MEF container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 1596
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 23516
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:30:42
+Message: Configuring ServiceLocator singleton
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 1596
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 23516
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:30:42
+Message: Configuring region adapters
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 1596
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 23516
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:30:42
+Message: Configuring default region behaviors
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 1596
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 23516
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:30:42
+Message: Registering Framework Exception Types
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 1596
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 23516
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:30:42
+Message: Creating shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 1596
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 23516
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:30:42
+Message: Setting the RegionManager.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 1596
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 23516
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:30:42
+Message: Updating Regions.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 1596
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 23516
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:30:42
+Message: Initializing shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 1596
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 23516
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:30:42
+Message: Initializing modules
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 1596
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 23516
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:30:43
+Message: Bootstrapper sequence completed
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 1596
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 23516
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:31:11
+Message: Logger was created successfully.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5608
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 23700
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:31:11
+Message: Creating module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5608
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 23700
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:31:11
+Message: Configuring module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5608
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 23700
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:31:11
+Message: Creating catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5608
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 23700
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:31:11
+Message: Configuring catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5608
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 23700
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:31:11
+Message: Creating Mef container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5608
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 23700
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:31:11
+Message: Configuring MEF container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5608
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 23700
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:31:11
+Message: Configuring ServiceLocator singleton
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5608
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 23700
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:31:11
+Message: Configuring region adapters
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5608
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 23700
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:31:11
+Message: Configuring default region behaviors
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5608
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 23700
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:31:11
+Message: Registering Framework Exception Types
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5608
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 23700
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:31:11
+Message: Creating shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5608
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 23700
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:31:11
+Message: Setting the RegionManager.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5608
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 23700
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:31:11
+Message: Updating Regions.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5608
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 23700
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:31:11
+Message: Initializing shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5608
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 23700
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:31:11
+Message: Initializing modules
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5608
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 23700
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:31:11
+Message: Bootstrapper sequence completed
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5608
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 23700
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:35:14
+Message: Configuring MEF container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18624
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 19292
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:35:14
+Message: Creating catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18624
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 20672
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:35:14
+Message: Logger was created successfully.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18624
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 13996
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:35:14
+Message: Configuring region adapters
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18624
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 19292
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:35:14
+Message: Configuring default region behaviors
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18624
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 13996
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:35:14
+Message: Registering Framework Exception Types
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18624
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 19292
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:35:14
+Message: Updating Regions.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18624
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 19292
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:35:14
+Message: Configuring module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18624
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 17544
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:35:14
+Message: Initializing shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18624
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 19292
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:35:14
+Message: Configuring ServiceLocator singleton
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18624
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 12080
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:35:14
+Message: Creating module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18624
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 5296
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:35:14
+Message: Creating Mef container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18624
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 17256
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:35:14
+Message: Setting the RegionManager.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18624
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 13996
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:35:14
+Message: Creating shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18624
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 20672
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:35:14
+Message: Configuring catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18624
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 18316
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:35:15
+Message: Initializing modules
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18624
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 12080
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:35:15
+Message: Bootstrapper sequence completed
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18624
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 17256
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:38:20
+Message: Configuring MEF container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18488
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22912
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:38:20
+Message: Configuring catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18488
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 4584
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:38:20
+Message: Creating catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18488
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 11340
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:38:20
+Message: Configuring module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18488
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 23016
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:38:20
+Message: Configuring region adapters
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18488
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22912
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:38:20
+Message: Creating shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18488
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 4584
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:38:20
+Message: Registering Framework Exception Types
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18488
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 11340
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:38:20
+Message: Logger was created successfully.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18488
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 19688
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:38:20
+Message: Updating Regions.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18488
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 4584
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:38:20
+Message: Creating module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18488
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 11880
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:38:20
+Message: Initializing shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18488
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 19688
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:38:20
+Message: Creating Mef container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18488
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 23908
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:38:20
+Message: Configuring default region behaviors
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18488
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 23016
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:38:20
+Message: Setting the RegionManager.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18488
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22912
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:38:20
+Message: Configuring ServiceLocator singleton
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18488
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 21828
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:38:20
+Message: Initializing modules
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18488
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 23016
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:38:20
+Message: Bootstrapper sequence completed
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 18488
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 4584
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:39:27
+Message: Logger was created successfully.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 13076
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22004
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:39:27
+Message: Creating module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 13076
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22004
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:39:27
+Message: Configuring module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 13076
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22004
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:39:27
+Message: Creating catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 13076
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22004
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:39:27
+Message: Configuring catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 13076
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22004
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:39:27
+Message: Creating Mef container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 13076
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22004
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:39:27
+Message: Configuring MEF container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 13076
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22004
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:39:27
+Message: Configuring ServiceLocator singleton
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 13076
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22004
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:39:27
+Message: Configuring region adapters
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 13076
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22004
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:39:27
+Message: Configuring default region behaviors
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 13076
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22004
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:39:27
+Message: Registering Framework Exception Types
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 13076
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22004
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:39:27
+Message: Creating shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 13076
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22004
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:39:27
+Message: Setting the RegionManager.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 13076
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22004
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:39:27
+Message: Updating Regions.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 13076
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22004
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:39:27
+Message: Initializing shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 13076
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22004
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:39:28
+Message: Initializing modules
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 13076
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22004
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:39:28
+Message: Bootstrapper sequence completed
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 13076
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22004
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:40:11
+Message: Logger was created successfully.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22428
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22504
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:40:11
+Message: Creating module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22428
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22504
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:40:11
+Message: Configuring module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22428
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22504
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:40:11
+Message: Creating catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22428
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22504
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:40:11
+Message: Configuring catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22428
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22504
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:40:12
+Message: Creating Mef container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22428
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22504
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:40:12
+Message: Configuring MEF container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22428
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22504
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:40:12
+Message: Configuring ServiceLocator singleton
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22428
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22504
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:40:12
+Message: Configuring region adapters
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22428
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22504
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:40:12
+Message: Configuring default region behaviors
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22428
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22504
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:40:12
+Message: Registering Framework Exception Types
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22428
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22504
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:40:12
+Message: Creating shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22428
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22504
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:40:12
+Message: Setting the RegionManager.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22428
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22504
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:40:12
+Message: Updating Regions.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22428
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22504
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:40:12
+Message: Initializing shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22428
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22504
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:40:12
+Message: Initializing modules
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22428
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22504
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:40:12
+Message: Bootstrapper sequence completed
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22428
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22504
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:41:55
+Message: Configuring module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20000
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22720
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:41:55
+Message: Configuring catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20000
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 14680
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:41:55
+Message: Configuring region adapters
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20000
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22720
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:41:55
+Message: Creating module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20000
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 16716
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:41:55
+Message: Creating shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20000
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 16716
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:41:55
+Message: Creating catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20000
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 12624
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:41:55
+Message: Setting the RegionManager.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20000
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 16716
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:41:55
+Message: Updating Regions.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20000
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 12624
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:41:55
+Message: Initializing shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20000
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 16716
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:41:55
+Message: Configuring default region behaviors
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20000
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 14680
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:41:55
+Message: Logger was created successfully.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20000
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 21240
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:41:55
+Message: Registering Framework Exception Types
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20000
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22720
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:41:55
+Message: Configuring ServiceLocator singleton
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20000
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 17228
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:41:55
+Message: Configuring MEF container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20000
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 15668
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:41:55
+Message: Creating Mef container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20000
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 11408
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:41:55
+Message: Initializing modules
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20000
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 22720
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 30.11.2015 22:41:55
+Message: Bootstrapper sequence completed
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20000
+Process Name: D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 15668
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:09:55
+Message: Logger was created successfully.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 27348
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 18928
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:09:55
+Message: Creating module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 27348
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 18928
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:09:55
+Message: Configuring module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 27348
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 18928
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:09:55
+Message: Creating catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 27348
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 18928
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:09:55
+Message: Configuring catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 27348
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 18928
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:09:55
+Message: Creating Mef container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 27348
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 18928
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:09:55
+Message: Configuring MEF container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 27348
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 18928
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:09:55
+Message: Configuring ServiceLocator singleton
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 27348
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 18928
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:09:55
+Message: Configuring region adapters
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 27348
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 18928
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:09:55
+Message: Configuring default region behaviors
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 27348
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 18928
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:09:55
+Message: Registering Framework Exception Types
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 27348
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 18928
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:09:55
+Message: Creating shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 27348
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 18928
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:09:56
+Message: Setting the RegionManager.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 27348
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 18928
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:09:56
+Message: Updating Regions.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 27348
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 18928
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:09:56
+Message: Initializing shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 27348
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 18928
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:09:56
+Message: Initializing modules
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 27348
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 18928
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:09:56
+Message: Bootstrapper sequence completed
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 27348
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 18928
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:10:15
+Message: Logger was created successfully.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 15860
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 29460
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:10:15
+Message: Creating module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 15860
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 29460
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:10:15
+Message: Configuring module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 15860
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 29460
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:10:15
+Message: Creating catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 15860
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 29460
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:10:15
+Message: Configuring catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 15860
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 29460
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:10:15
+Message: Creating Mef container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 15860
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 29460
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:10:15
+Message: Configuring MEF container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 15860
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 29460
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:10:15
+Message: Configuring ServiceLocator singleton
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 15860
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 29460
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:10:15
+Message: Configuring region adapters
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 15860
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 29460
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:10:15
+Message: Configuring default region behaviors
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 15860
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 29460
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:10:15
+Message: Registering Framework Exception Types
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 15860
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 29460
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:10:15
+Message: Creating shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 15860
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 29460
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:10:15
+Message: Setting the RegionManager.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 15860
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 29460
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:10:15
+Message: Updating Regions.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 15860
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 29460
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:10:16
+Message: Initializing shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 15860
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 29460
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:10:16
+Message: Initializing modules
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 15860
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 29460
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:10:16
+Message: Bootstrapper sequence completed
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 15860
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 29460
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:12:46
+Message: Logger was created successfully.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20504
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 21888
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:12:46
+Message: Creating module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20504
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 21888
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:12:46
+Message: Configuring module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20504
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 21888
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:12:46
+Message: Creating catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20504
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 21888
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:12:46
+Message: Configuring catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20504
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 21888
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:12:46
+Message: Creating Mef container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20504
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 21888
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:12:46
+Message: Configuring MEF container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20504
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 21888
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:12:46
+Message: Configuring ServiceLocator singleton
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20504
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 21888
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:12:46
+Message: Configuring region adapters
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20504
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 21888
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:12:46
+Message: Configuring default region behaviors
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20504
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 21888
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:12:46
+Message: Registering Framework Exception Types
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20504
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 21888
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:12:46
+Message: Creating shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20504
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 21888
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:12:46
+Message: Setting the RegionManager.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20504
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 21888
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:12:46
+Message: Updating Regions.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20504
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 21888
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:12:46
+Message: Initializing shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20504
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 21888
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:12:47
+Message: Initializing modules
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20504
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 21888
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:12:47
+Message: Bootstrapper sequence completed
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 20504
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 21888
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:13:53
+Message: Logger was created successfully.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 17792
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 22316
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:13:53
+Message: Creating module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 17792
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 22316
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:13:53
+Message: Configuring module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 17792
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 22316
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:13:53
+Message: Creating catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 17792
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 22316
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:13:53
+Message: Configuring catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 17792
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 22316
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:13:53
+Message: Creating Mef container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 17792
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 22316
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:13:53
+Message: Configuring MEF container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 17792
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 22316
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:13:53
+Message: Configuring ServiceLocator singleton
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 17792
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 22316
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:13:53
+Message: Configuring region adapters
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 17792
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 22316
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:13:53
+Message: Configuring default region behaviors
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 17792
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 22316
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:13:53
+Message: Registering Framework Exception Types
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 17792
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 22316
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:13:53
+Message: Creating shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 17792
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 22316
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:13:53
+Message: Setting the RegionManager.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 17792
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 22316
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:13:53
+Message: Updating Regions.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 17792
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 22316
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:13:53
+Message: Initializing shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 17792
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 22316
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:13:54
+Message: Initializing modules
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 17792
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 22316
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:13:54
+Message: Bootstrapper sequence completed
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 17792
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 22316
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:14:26
+Message: An order has been submitted.
+Order Details: <Order OrderType="Market" Shares="23" StopLimitPrice="23" TickerSymbol="STOCK6" TimeInForce="EndOfDay" TransactionType="Sell" Date="06/17/2016 11:14:26" />
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 17792
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 22316
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:14:28
+Message: An order has been submitted.
+Order Details: <Order OrderType="Market" Shares="3" StopLimitPrice="234" TickerSymbol="STOCK7" TimeInForce="EndOfDay" TransactionType="Sell" Date="06/17/2016 11:14:28" />
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.vshost.exe
+Process Id: 17792
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.vshost.exe
+Win32 Thread Id: 22316
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:15:34
+Message: Logger was created successfully.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22664
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 26752
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:15:34
+Message: Creating module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22664
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 26752
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:15:34
+Message: Configuring module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22664
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 26752
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:15:34
+Message: Creating catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22664
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 26752
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:15:34
+Message: Configuring catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22664
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 26752
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:15:34
+Message: Creating Mef container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22664
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 26752
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:15:34
+Message: Configuring MEF container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22664
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 26752
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:15:34
+Message: Configuring ServiceLocator singleton
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22664
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 26752
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:15:34
+Message: Configuring region adapters
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22664
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 26752
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:15:34
+Message: Configuring default region behaviors
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22664
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 26752
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:15:34
+Message: Registering Framework Exception Types
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22664
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 26752
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:15:34
+Message: Creating shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22664
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 26752
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:15:34
+Message: Setting the RegionManager.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22664
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 26752
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:15:34
+Message: Updating Regions.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22664
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 26752
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:15:34
+Message: Initializing shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22664
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 26752
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:15:35
+Message: Initializing modules
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22664
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 26752
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:15:35
+Message: Bootstrapper sequence completed
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 22664
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 26752
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:20:02
+Message: Logger was created successfully.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 30244
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 7784
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:20:02
+Message: Creating module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 30244
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 7784
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:20:02
+Message: Configuring module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 30244
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 7784
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:20:02
+Message: Creating catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 30244
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 7784
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:20:02
+Message: Configuring catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 30244
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 7784
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:20:03
+Message: Creating Mef container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 30244
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 7784
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:20:03
+Message: Configuring MEF container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 30244
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 7784
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:20:03
+Message: Configuring ServiceLocator singleton
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 30244
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 7784
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:20:03
+Message: Configuring region adapters
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 30244
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 7784
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:20:03
+Message: Configuring default region behaviors
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 30244
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 7784
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:20:03
+Message: Registering Framework Exception Types
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 30244
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 7784
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:20:03
+Message: Creating shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 30244
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 7784
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:20:03
+Message: Setting the RegionManager.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 30244
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 7784
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:20:03
+Message: Updating Regions.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 30244
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 7784
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:20:03
+Message: Initializing shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 30244
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 7784
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:20:03
+Message: Initializing modules
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 30244
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 7784
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:20:03
+Message: Bootstrapper sequence completed
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 30244
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 7784
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:27:22
+Message: Configuring module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5140
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 24704
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:27:22
+Message: Configuring ServiceLocator singleton
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5140
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 10100
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:27:22
+Message: Configuring region adapters
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5140
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 24704
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:27:22
+Message: Configuring default region behaviors
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5140
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 10100
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:27:22
+Message: Creating shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5140
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 10100
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:27:22
+Message: Setting the RegionManager.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5140
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 10100
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:27:22
+Message: Updating Regions.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5140
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 10100
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:27:22
+Message: Initializing shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5140
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 10100
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:27:22
+Message: Creating Mef container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5140
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 27952
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:27:22
+Message: Registering Framework Exception Types
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5140
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 24704
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:27:22
+Message: Logger was created successfully.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5140
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 24748
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:27:22
+Message: Creating module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5140
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 19736
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:27:22
+Message: Configuring MEF container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5140
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 26072
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:27:22
+Message: Creating catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5140
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 10620
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:27:22
+Message: Configuring catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5140
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 25172
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:27:22
+Message: Initializing modules
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5140
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 10100
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:27:22
+Message: Bootstrapper sequence completed
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 5140
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 24748
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:28:26
+Message: Creating Mef container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 26280
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 12704
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:28:26
+Message: Configuring catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 26280
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 17332
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:28:26
+Message: Logger was created successfully.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 26280
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 30708
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:28:26
+Message: Configuring MEF container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 26280
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 12948
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:28:26
+Message: Configuring module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 26280
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 10120
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:28:26
+Message: Creating catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 26280
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 20196
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:28:26
+Message: Configuring ServiceLocator singleton
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 26280
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 28512
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:28:26
+Message: Creating module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 26280
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 18824
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:28:26
+Message: Updating Regions.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 26280
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 20196
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:28:26
+Message: Configuring default region behaviors
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 26280
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 30708
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:28:26
+Message: Registering Framework Exception Types
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 26280
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 17332
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:28:26
+Message: Initializing shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 26280
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 30708
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:28:26
+Message: Setting the RegionManager.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 26280
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 10120
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:28:26
+Message: Creating shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 26280
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 12948
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:28:26
+Message: Configuring region adapters
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 26280
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 12704
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:28:26
+Message: Initializing modules
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 26280
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 10120
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:28:26
+Message: Bootstrapper sequence completed
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 26280
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 18824
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:33:38
+Message: Configuring ServiceLocator singleton
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 15208
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 15452
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:33:38
+Message: Logger was created successfully.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 15208
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 23232
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:33:38
+Message: Configuring region adapters
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 15208
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 15452
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:33:38
+Message: Configuring default region behaviors
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 15208
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 23232
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:33:38
+Message: Registering Framework Exception Types
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 15208
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 15452
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:33:38
+Message: Creating module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 15208
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 25984
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:33:38
+Message: Setting the RegionManager.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 15208
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 15452
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:33:38
+Message: Creating shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 15208
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 23232
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:33:38
+Message: Configuring catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 15208
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 30216
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:33:38
+Message: Creating Mef container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 15208
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 18108
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:33:38
+Message: Updating Regions.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 15208
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 25984
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:33:38
+Message: Initializing shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 15208
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 15452
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:33:38
+Message: Configuring module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 15208
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 24252
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:33:38
+Message: Configuring MEF container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 15208
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 1292
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:33:38
+Message: Creating catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 15208
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 16640
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:33:38
+Message: Initializing modules
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 15208
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 1292
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:33:38
+Message: Bootstrapper sequence completed
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 15208
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 30216
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:35:44
+Message: Creating module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 28512
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 28288
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:35:44
+Message: Configuring MEF container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 28512
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 12428
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:35:44
+Message: Configuring region adapters
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 28512
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 28288
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:35:44
+Message: Configuring default region behaviors
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 28512
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 12428
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:35:44
+Message: Configuring module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 28512
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 6440
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:35:44
+Message: Setting the RegionManager.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 28512
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 6440
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:35:44
+Message: Creating shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 28512
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 12428
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:35:44
+Message: Updating Regions.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 28512
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 6440
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:35:44
+Message: Creating catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 28512
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 25168
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:35:44
+Message: Initializing shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 28512
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 6440
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:35:44
+Message: Creating Mef container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 28512
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 23892
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:35:44
+Message: Logger was created successfully.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 28512
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 17648
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:35:44
+Message: Configuring ServiceLocator singleton
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 28512
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 27796
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:35:44
+Message: Registering Framework Exception Types
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 28512
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 28288
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:35:44
+Message: Configuring catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 28512
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 21344
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:35:45
+Message: Initializing modules
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 28512
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 12428
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:35:45
+Message: Bootstrapper sequence completed
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 28512
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 6440
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:37:28
+Message: Creating module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 12708
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 20008
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:37:28
+Message: Configuring catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 12708
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 26880
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:37:28
+Message: Creating catalog for MEF
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 12708
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 29464
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:37:28
+Message: Creating Mef container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 12708
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 20920
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:37:28
+Message: Configuring region adapters
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 12708
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 20008
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:37:28
+Message: Creating shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 12708
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 20920
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:37:28
+Message: Updating Regions.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 12708
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 20920
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:37:28
+Message: Setting the RegionManager.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 12708
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 20008
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:37:28
+Message: Logger was created successfully.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 12708
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 15960
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:37:28
+Message: Initializing shell
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 12708
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 20920
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:37:28
+Message: Configuring ServiceLocator singleton
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 12708
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 12856
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:37:28
+Message: Configuring MEF container
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 12708
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 20716
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:37:28
+Message: Registering Framework Exception Types
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 12708
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 29464
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:37:28
+Message: Configuring default region behaviors
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 12708
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 26880
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:37:28
+Message: Configuring module catalog.
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 12708
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 24948
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:37:28
+Message: Initializing modules
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 12708
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 12856
+Thread Name: 
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 17.06.2016 09:37:28
+Message: Bootstrapper sequence completed
+Category: Debug
+Priority: 3
+EventId: 1
+Severity: Information
+Title:
+Machine: LTMME02
+Application Domain: StockTraderRI.exe
+Process Id: 12708
+Process Name: D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+Win32 Thread Id: 20008
+Thread Name: 
+Extended Properties: 
+----------------------------------------

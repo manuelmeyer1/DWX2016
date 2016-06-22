@@ -1,0 +1,43 @@
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\bin\Debug\StockTraderRI.Modules.Watch.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\bin\Debug\StockTraderRI.Modules.Watch.pdb
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\bin\Debug\Microsoft.Practices.Prism.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\bin\Debug\StockTraderRI.Infrastructure.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\bin\Debug\StockTraderRI.Infrastructure.pdb
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\bin\Debug\StockTraderRI.Infrastructure.xml
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\bin\Debug\Microsoft.Practices.Prism.MefExtensions.xml
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\bin\Debug\Microsoft.Practices.Prism.xml
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\AddWatch\AddWatchView.baml
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\WatchList\WatchListView.baml
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\AddWatch\AddWatchView.g.vb
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\WatchList\WatchListView.g.vb
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\StockTraderRI.Modules.Watch_MarkupCompile.cache
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\StockTraderRI.Modules.Watch.g.resources
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\Resources.resources
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\StockTraderRI.Modules.Watch.vbproj.GenerateResource.Cache
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\StockTraderRI.Modules.Watch.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\StockTraderRI.Modules.Watch.pdb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.WatchList\bin\Debug\StockTraderRI.Modules.Watch.dll
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.WatchList\bin\Debug\StockTraderRI.Modules.Watch.pdb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.WatchList\bin\Debug\StockTraderRI.Infrastructure.dll
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.WatchList\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.WatchList\bin\Debug\StockTraderRI.Infrastructure.pdb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.WatchList\bin\Debug\StockTraderRI.Infrastructure.xml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.WatchList\bin\Debug\Microsoft.Practices.Prism.MefExtensions.xml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.WatchList\bin\Debug\Microsoft.Practices.Prism.xml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.WatchList\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.WatchList\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\StockTraderRI.Modules.Watch.vbprojResolveAssemblyReference.cache
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\AddWatch\AddWatchView.baml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\WatchList\WatchListView.baml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\AddWatch\AddWatchView.g.vb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\WatchList\WatchListView.g.vb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\StockTraderRI.Modules.Watch_MarkupCompile.cache
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\StockTraderRI.Modules.Watch.g.resources
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\Resources.resources
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\StockTraderRI.Modules.Watch.vbproj.GenerateResource.Cache
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\StockTraderRI.Modules.Watch.dll
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.WatchList\obj\Debug\StockTraderRI.Modules.Watch.pdb

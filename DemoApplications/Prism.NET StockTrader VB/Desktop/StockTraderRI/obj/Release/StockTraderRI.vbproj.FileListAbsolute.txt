@@ -1,0 +1,12 @@
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Release\StockTraderRI.exe.config
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Release\StockTraderRI.vbprojResolveAssemblyReference.cache
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Release\Controls\RoundedBox.baml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Release\Resources\Styles.baml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Release\Resources\TabItemResource.baml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Release\Resources\WindowRegionResource.baml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Release\Application.baml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Release\Controls\RoundedBox.g.vb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Release\Application.g.vb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Release\GeneratedInternalTypeHelper.g.vb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Release\StockTraderRI_MarkupCompile.cache
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Release\StockTraderRI_MarkupCompile.lref

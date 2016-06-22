@@ -1,0 +1,163 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_StockTraderRI Common", "_StockTraderRI Common", "{AA6791F0-2989-4626-8981-F8935F6D501E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{0A8F9AA8-7336-4DA1-8C98-D91A6730AA0E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "StockTraderRI", "Desktop\StockTraderRI\StockTraderRI.vbproj", "{3487B9D4-AFAB-4E82-A0F6-2BEE3C013BBB}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "StockTraderRI.Infrastructure", "Desktop\StockTraderRI.Infrastructure\StockTraderRI.Infrastructure.vbproj", "{0A123C1B-F316-447D-99A5-44CCF8023683}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "StockTraderRI.Modules.News", "Desktop\StockTraderRI.Modules.News\StockTraderRI.Modules.News.vbproj", "{2B892495-7440-44D4-87F7-C7ABB42740A8}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "StockTraderRI.Modules.Watch", "Desktop\StockTraderRI.Modules.WatchList\StockTraderRI.Modules.Watch.vbproj", "{78621307-C67F-4C61-96AA-7EE4B3C08620}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{D412DD59-3D0A-4175-AEF6-5BE676194832}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "StockTraderRI.Infrastructure.Tests", "Desktop\StockTraderRI.Infrastructure.Tests\StockTraderRI.Infrastructure.Tests.vbproj", "{51B1879C-B50F-444E-BCB6-2A103C24E4ED}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "StockTraderRI.Modules.News.Tests", "Desktop\StockTraderRI.Modules.News.Tests\StockTraderRI.Modules.News.Tests.vbproj", "{F176D436-B909-417F-B46D-9877CC9A57C7}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "StockTraderRI.Modules.Position.Tests", "Desktop\StockTraderRI.Modules.Position.Tests\StockTraderRI.Modules.Position.Tests.vbproj", "{02C15B36-49C4-4C98-81EE-DFACA87FD965}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "StockTraderRI.Modules.Watch.Tests", "Desktop\StockTraderRI.Modules.WatchList.Tests\StockTraderRI.Modules.Watch.Tests.vbproj", "{58F5A2E4-4BD3-407F-9BF2-7ECAC7FDB045}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "StockTraderRI.Modules.Market.Tests", "Desktop\StockTraderRI.Modules.Market.Tests\StockTraderRI.Modules.Market.Tests.vbproj", "{DEFED0C8-EBCF-491A-892E-212B8A963268}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "StockTraderRI.Modules.Market", "Desktop\StockTraderRI.Modules.Market\StockTraderRI.Modules.Market.vbproj", "{65E5631B-965B-4E16-9B98-6DCAE79B0D85}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "StockTraderRI.Modules.Position", "Desktop\StockTraderRI.Modules.Position\StockTraderRI.Modules.Position.vbproj", "{46F2DA52-ACB0-4183-912F-7CC29971ED50}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Prism.TestSupport", "..\PrismLibrary\Desktop\Prism.TestSupport\Prism.TestSupport.vbproj", "{D1C75DE6-CB2B-401A-985C-033C4FABAD84}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "StockTraderRI.ChartControls", "..\ChartControls\StockTraderRI.ChartControls.vbproj", "{CBF8605C-8DAC-4CBB-9A1E-D798D83B277E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3487B9D4-AFAB-4E82-A0F6-2BEE3C013BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3487B9D4-AFAB-4E82-A0F6-2BEE3C013BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3487B9D4-AFAB-4E82-A0F6-2BEE3C013BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3487B9D4-AFAB-4E82-A0F6-2BEE3C013BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A123C1B-F316-447D-99A5-44CCF8023683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A123C1B-F316-447D-99A5-44CCF8023683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A123C1B-F316-447D-99A5-44CCF8023683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A123C1B-F316-447D-99A5-44CCF8023683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B892495-7440-44D4-87F7-C7ABB42740A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B892495-7440-44D4-87F7-C7ABB42740A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B892495-7440-44D4-87F7-C7ABB42740A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B892495-7440-44D4-87F7-C7ABB42740A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78621307-C67F-4C61-96AA-7EE4B3C08620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78621307-C67F-4C61-96AA-7EE4B3C08620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78621307-C67F-4C61-96AA-7EE4B3C08620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78621307-C67F-4C61-96AA-7EE4B3C08620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51B1879C-B50F-444E-BCB6-2A103C24E4ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B1879C-B50F-444E-BCB6-2A103C24E4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B1879C-B50F-444E-BCB6-2A103C24E4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51B1879C-B50F-444E-BCB6-2A103C24E4ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F176D436-B909-417F-B46D-9877CC9A57C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F176D436-B909-417F-B46D-9877CC9A57C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F176D436-B909-417F-B46D-9877CC9A57C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F176D436-B909-417F-B46D-9877CC9A57C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02C15B36-49C4-4C98-81EE-DFACA87FD965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C15B36-49C4-4C98-81EE-DFACA87FD965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C15B36-49C4-4C98-81EE-DFACA87FD965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C15B36-49C4-4C98-81EE-DFACA87FD965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58F5A2E4-4BD3-407F-9BF2-7ECAC7FDB045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F5A2E4-4BD3-407F-9BF2-7ECAC7FDB045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F5A2E4-4BD3-407F-9BF2-7ECAC7FDB045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F5A2E4-4BD3-407F-9BF2-7ECAC7FDB045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEFED0C8-EBCF-491A-892E-212B8A963268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFED0C8-EBCF-491A-892E-212B8A963268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFED0C8-EBCF-491A-892E-212B8A963268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFED0C8-EBCF-491A-892E-212B8A963268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65E5631B-965B-4E16-9B98-6DCAE79B0D85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65E5631B-965B-4E16-9B98-6DCAE79B0D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65E5631B-965B-4E16-9B98-6DCAE79B0D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65E5631B-965B-4E16-9B98-6DCAE79B0D85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46F2DA52-ACB0-4183-912F-7CC29971ED50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F2DA52-ACB0-4183-912F-7CC29971ED50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F2DA52-ACB0-4183-912F-7CC29971ED50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F2DA52-ACB0-4183-912F-7CC29971ED50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1C75DE6-CB2B-401A-985C-033C4FABAD84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1C75DE6-CB2B-401A-985C-033C4FABAD84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1C75DE6-CB2B-401A-985C-033C4FABAD84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1C75DE6-CB2B-401A-985C-033C4FABAD84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBF8605C-8DAC-4CBB-9A1E-D798D83B277E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF8605C-8DAC-4CBB-9A1E-D798D83B277E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF8605C-8DAC-4CBB-9A1E-D798D83B277E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF8605C-8DAC-4CBB-9A1E-D798D83B277E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0A123C1B-F316-447D-99A5-44CCF8023683} = {AA6791F0-2989-4626-8981-F8935F6D501E}
+		{2B892495-7440-44D4-87F7-C7ABB42740A8} = {0A8F9AA8-7336-4DA1-8C98-D91A6730AA0E}
+		{78621307-C67F-4C61-96AA-7EE4B3C08620} = {0A8F9AA8-7336-4DA1-8C98-D91A6730AA0E}
+		{51B1879C-B50F-444E-BCB6-2A103C24E4ED} = {D412DD59-3D0A-4175-AEF6-5BE676194832}
+		{F176D436-B909-417F-B46D-9877CC9A57C7} = {D412DD59-3D0A-4175-AEF6-5BE676194832}
+		{02C15B36-49C4-4C98-81EE-DFACA87FD965} = {D412DD59-3D0A-4175-AEF6-5BE676194832}
+		{58F5A2E4-4BD3-407F-9BF2-7ECAC7FDB045} = {D412DD59-3D0A-4175-AEF6-5BE676194832}
+		{DEFED0C8-EBCF-491A-892E-212B8A963268} = {D412DD59-3D0A-4175-AEF6-5BE676194832}
+		{65E5631B-965B-4E16-9B98-6DCAE79B0D85} = {0A8F9AA8-7336-4DA1-8C98-D91A6730AA0E}
+		{46F2DA52-ACB0-4183-912F-7CC29971ED50} = {0A8F9AA8-7336-4DA1-8C98-D91A6730AA0E}
+		{D1C75DE6-CB2B-401A-985C-033C4FABAD84} = {D412DD59-3D0A-4175-AEF6-5BE676194832}
+		{CBF8605C-8DAC-4CBB-9A1E-D798D83B277E} = {AA6791F0-2989-4626-8981-F8935F6D501E}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 12
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://mmtfs.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Desktop\\StockTraderRI\\StockTraderRI.vbproj
+		SccProjectName1 = Desktop/StockTraderRI
+		SccLocalPath1 = Desktop\\StockTraderRI
+		SccProjectUniqueName2 = Desktop\\StockTraderRI.Infrastructure\\StockTraderRI.Infrastructure.vbproj
+		SccProjectTopLevelParentUniqueName2 = StockTraderRI_Desktop.sln
+		SccProjectName2 = Desktop/StockTraderRI.Infrastructure
+		SccLocalPath2 = Desktop\\StockTraderRI.Infrastructure
+		SccProjectUniqueName3 = Desktop\\StockTraderRI.Modules.News\\StockTraderRI.Modules.News.vbproj
+		SccProjectTopLevelParentUniqueName3 = StockTraderRI_Desktop.sln
+		SccProjectName3 = Desktop/StockTraderRI.Modules.News
+		SccLocalPath3 = Desktop\\StockTraderRI.Modules.News
+		SccProjectUniqueName4 = Desktop\\StockTraderRI.Modules.WatchList\\StockTraderRI.Modules.Watch.vbproj
+		SccProjectTopLevelParentUniqueName4 = StockTraderRI_Desktop.sln
+		SccProjectName4 = Desktop/StockTraderRI.Modules.WatchList
+		SccLocalPath4 = Desktop\\StockTraderRI.Modules.WatchList
+		SccProjectUniqueName5 = Desktop\\StockTraderRI.Infrastructure.Tests\\StockTraderRI.Infrastructure.Tests.vbproj
+		SccProjectTopLevelParentUniqueName5 = StockTraderRI_Desktop.sln
+		SccProjectName5 = Desktop/StockTraderRI.Infrastructure.Tests
+		SccLocalPath5 = Desktop\\StockTraderRI.Infrastructure.Tests
+		SccProjectUniqueName6 = Desktop\\StockTraderRI.Modules.News.Tests\\StockTraderRI.Modules.News.Tests.vbproj
+		SccProjectTopLevelParentUniqueName6 = StockTraderRI_Desktop.sln
+		SccProjectName6 = Desktop/StockTraderRI.Modules.News.Tests
+		SccLocalPath6 = Desktop\\StockTraderRI.Modules.News.Tests
+		SccProjectUniqueName7 = Desktop\\StockTraderRI.Modules.Position.Tests\\StockTraderRI.Modules.Position.Tests.vbproj
+		SccProjectTopLevelParentUniqueName7 = StockTraderRI_Desktop.sln
+		SccProjectName7 = Desktop/StockTraderRI.Modules.Position.Tests
+		SccLocalPath7 = Desktop\\StockTraderRI.Modules.Position.Tests
+		SccProjectUniqueName8 = Desktop\\StockTraderRI.Modules.WatchList.Tests\\StockTraderRI.Modules.Watch.Tests.vbproj
+		SccProjectTopLevelParentUniqueName8 = StockTraderRI_Desktop.sln
+		SccProjectName8 = Desktop/StockTraderRI.Modules.WatchList.Tests
+		SccLocalPath8 = Desktop\\StockTraderRI.Modules.WatchList.Tests
+		SccProjectUniqueName9 = Desktop\\StockTraderRI.Modules.Market.Tests\\StockTraderRI.Modules.Market.Tests.vbproj
+		SccProjectTopLevelParentUniqueName9 = StockTraderRI_Desktop.sln
+		SccProjectName9 = Desktop/StockTraderRI.Modules.Market.Tests
+		SccLocalPath9 = Desktop\\StockTraderRI.Modules.Market.Tests
+		SccProjectUniqueName10 = Desktop\\StockTraderRI.Modules.Market\\StockTraderRI.Modules.Market.vbproj
+		SccProjectTopLevelParentUniqueName10 = StockTraderRI_Desktop.sln
+		SccProjectName10 = Desktop/StockTraderRI.Modules.Market
+		SccLocalPath10 = Desktop\\StockTraderRI.Modules.Market
+		SccProjectUniqueName11 = Desktop\\StockTraderRI.Modules.Position\\StockTraderRI.Modules.Position.vbproj
+		SccProjectTopLevelParentUniqueName11 = StockTraderRI_Desktop.sln
+		SccProjectName11 = Desktop/StockTraderRI.Modules.Position
+		SccLocalPath11 = Desktop\\StockTraderRI.Modules.Position
+	EndGlobalSection
+EndGlobal

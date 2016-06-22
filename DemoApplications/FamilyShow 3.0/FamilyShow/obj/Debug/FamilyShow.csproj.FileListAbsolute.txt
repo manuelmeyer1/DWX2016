@@ -1,0 +1,260 @@
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\bin\Debug\FamilyShow.exe.config
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\FamilyShow.csprojResolveAssemblyReference.cache
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\Controls\OldVersionMessage.baml
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\Controls\FamilyData\FilterText.baml
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\Controls\Welcome.baml
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\App.baml
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\Controls\OldVersionMessage.g.cs
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\Controls\Diagram\DiagramViewer.g.cs
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\Controls\FamilyData\FamilyData.g.cs
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\Controls\FamilyData\FilterText.g.cs
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\Controls\FamilyData\Histogram.g.cs
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\Controls\NewUserControl.g.cs
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\Controls\PersonInfo.g.cs
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\Controls\FamilyData\SharedBirthdays.g.cs
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\Controls\FamilyData\TagCloud.g.cs
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\Controls\Welcome.g.cs
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\MainWindow.g.cs
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\App.g.cs
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\FamilyShow_Content.g.cs
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\FamilyShow_MarkupCompile.cache
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\FamilyShow_MarkupCompile.lref
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\bin\Debug\Skins\Silver\SilverResources.xaml
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\bin\Debug\Skins\Black\BlackResources.xaml
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\bin\Debug\FamilyShow.exe
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\bin\Debug\FamilyShow.pdb
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\bin\Debug\FamilyShowLib.dll
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\bin\Debug\FamilyShowLib.pdb
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\Controls\Details.g.cs
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\Controls\Diagram\DiagramViewer.baml
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\Controls\FamilyData\FamilyData.baml
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\Controls\FamilyData\Histogram.baml
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\Controls\NewUserControl.baml
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\Controls\PersonInfo.baml
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\Controls\FamilyData\SharedBirthdays.baml
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\Controls\FamilyData\TagCloud.baml
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\MainWindow.baml
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\Controls\Details.baml
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\FamilyShow.g.resources
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\Microsoft.FamilyShow.Properties.Resources.resources
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\FamilyShow.csproj.GenerateResource.Cache
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\FamilyShow.exe
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShow\obj\Debug\FamilyShow.pdb
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\bin\Debug\FamilyShow.exe.config
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\FamilyShow.exe
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\FamilyShow.pdb
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\bin\Debug\Skins\Silver\SilverResources.xaml
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\bin\Debug\Skins\Black\BlackResources.xaml
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\bin\Debug\FamilyShow.exe
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\bin\Debug\FamilyShow.pdb
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\bin\Debug\FamilyShowLib.dll
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\bin\Debug\FamilyShowLib.pdb
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\FamilyShow.csprojResolveAssemblyReference.cache
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\Controls\OldVersionMessage.baml
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\Controls\FamilyData\FilterText.baml
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\Controls\Welcome.baml
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\App.baml
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\Controls\OldVersionMessage.g.cs
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\Controls\Diagram\DiagramViewer.g.cs
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\Controls\FamilyData\FamilyData.g.cs
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\Controls\FamilyData\FilterText.g.cs
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\Controls\FamilyData\Histogram.g.cs
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\Controls\NewUserControl.g.cs
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\Controls\PersonInfo.g.cs
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\Controls\FamilyData\SharedBirthdays.g.cs
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\Controls\FamilyData\TagCloud.g.cs
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\Controls\Welcome.g.cs
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\MainWindow.g.cs
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\Controls\Details.g.cs
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\App.g.cs
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\FamilyShow_Content.g.cs
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\FamilyShow_MarkupCompile.cache
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\FamilyShow_MarkupCompile.lref
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\Controls\Diagram\DiagramViewer.baml
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\Controls\FamilyData\FamilyData.baml
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\Controls\FamilyData\Histogram.baml
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\Controls\NewUserControl.baml
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\Controls\PersonInfo.baml
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\Controls\FamilyData\SharedBirthdays.baml
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\Controls\FamilyData\TagCloud.baml
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\MainWindow.baml
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\Controls\Details.baml
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\FamilyShow.g.resources
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\Microsoft.FamilyShow.Properties.Resources.resources
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShow\obj\Debug\FamilyShow.csproj.GenerateResource.Cache
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\bin\Debug\FamilyShow.exe.config
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\FamilyShow.exe
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\FamilyShow.pdb
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\bin\Debug\Skins\Silver\SilverResources.xaml
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\bin\Debug\Skins\Black\BlackResources.xaml
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\bin\Debug\FamilyShow.exe
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\bin\Debug\FamilyShow.pdb
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\bin\Debug\FamilyShowLib.dll
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\bin\Debug\FamilyShowLib.pdb
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\FamilyShow.csprojResolveAssemblyReference.cache
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\Controls\OldVersionMessage.baml
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\Controls\FamilyData\FilterText.baml
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\Controls\Welcome.baml
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\App.baml
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\Controls\OldVersionMessage.g.cs
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\Controls\Diagram\DiagramViewer.g.cs
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\Controls\FamilyData\FamilyData.g.cs
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\Controls\FamilyData\FilterText.g.cs
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\Controls\FamilyData\Histogram.g.cs
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\Controls\NewUserControl.g.cs
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\Controls\PersonInfo.g.cs
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\Controls\FamilyData\SharedBirthdays.g.cs
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\Controls\FamilyData\TagCloud.g.cs
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\Controls\Welcome.g.cs
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\MainWindow.g.cs
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\Controls\Details.g.cs
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\App.g.cs
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\FamilyShow_Content.g.cs
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\FamilyShow_MarkupCompile.cache
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\FamilyShow_MarkupCompile.lref
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\Controls\Diagram\DiagramViewer.baml
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\Controls\FamilyData\FamilyData.baml
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\Controls\FamilyData\Histogram.baml
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\Controls\NewUserControl.baml
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\Controls\PersonInfo.baml
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\Controls\FamilyData\SharedBirthdays.baml
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\Controls\FamilyData\TagCloud.baml
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\MainWindow.baml
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\Controls\Details.baml
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\FamilyShow.g.resources
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\Microsoft.FamilyShow.Properties.Resources.resources
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShow\obj\Debug\FamilyShow.csproj.GenerateResource.Cache
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\bin\Debug\Skins\Silver\SilverResources.xaml
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\bin\Debug\Skins\Black\BlackResources.xaml
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\bin\Debug\FamilyShow.exe.config
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\bin\Debug\FamilyShow.exe
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\bin\Debug\FamilyShow.pdb
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\bin\Debug\FamilyShowLib.dll
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\bin\Debug\FamilyShowLib.pdb
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\FamilyShow.csprojResolveAssemblyReference.cache
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\Controls\OldVersionMessage.baml
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\Controls\FamilyData\FilterText.baml
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\Controls\Welcome.baml
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\App.baml
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\Controls\OldVersionMessage.g.cs
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\Controls\Diagram\DiagramViewer.g.cs
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\Controls\FamilyData\FamilyData.g.cs
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\Controls\FamilyData\FilterText.g.cs
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\Controls\FamilyData\Histogram.g.cs
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\Controls\NewUserControl.g.cs
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\Controls\PersonInfo.g.cs
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\Controls\FamilyData\SharedBirthdays.g.cs
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\Controls\FamilyData\TagCloud.g.cs
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\Controls\Welcome.g.cs
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\MainWindow.g.cs
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\Controls\Details.g.cs
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\App.g.cs
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\FamilyShow_Content.g.cs
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\FamilyShow_MarkupCompile.cache
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\FamilyShow_MarkupCompile.lref
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\Controls\Diagram\DiagramViewer.baml
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\Controls\FamilyData\FamilyData.baml
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\Controls\FamilyData\Histogram.baml
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\Controls\NewUserControl.baml
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\Controls\PersonInfo.baml
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\Controls\FamilyData\SharedBirthdays.baml
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\Controls\FamilyData\TagCloud.baml
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\MainWindow.baml
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\Controls\Details.baml
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\FamilyShow.g.resources
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\Microsoft.FamilyShow.Properties.Resources.resources
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\FamilyShow.csproj.GenerateResource.Cache
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\FamilyShow.exe
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShow\obj\Debug\FamilyShow.pdb
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\bin\Debug\Skins\Silver\SilverResources.xaml
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\bin\Debug\Skins\Black\BlackResources.xaml
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\bin\Debug\FamilyShow.exe.config
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\bin\Debug\FamilyShow.exe
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\bin\Debug\FamilyShow.pdb
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\bin\Debug\FamilyShowLib.dll
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\bin\Debug\FamilyShowLib.pdb
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\FamilyShow.csprojResolveAssemblyReference.cache
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\Controls\OldVersionMessage.baml
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\Controls\FamilyData\FilterText.baml
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\Controls\Welcome.baml
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\App.baml
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\Controls\OldVersionMessage.g.cs
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\Controls\Diagram\DiagramViewer.g.cs
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\Controls\FamilyData\FamilyData.g.cs
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\Controls\FamilyData\FilterText.g.cs
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\Controls\FamilyData\Histogram.g.cs
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\Controls\NewUserControl.g.cs
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\Controls\PersonInfo.g.cs
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\Controls\FamilyData\SharedBirthdays.g.cs
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\Controls\FamilyData\TagCloud.g.cs
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\Controls\Welcome.g.cs
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\MainWindow.g.cs
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\Controls\Details.g.cs
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\App.g.cs
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\FamilyShow_Content.g.cs
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\FamilyShow_MarkupCompile.cache
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\FamilyShow_MarkupCompile.lref
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\Controls\Diagram\DiagramViewer.baml
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\Controls\FamilyData\FamilyData.baml
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\Controls\FamilyData\Histogram.baml
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\Controls\NewUserControl.baml
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\Controls\PersonInfo.baml
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\Controls\FamilyData\SharedBirthdays.baml
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\Controls\FamilyData\TagCloud.baml
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\MainWindow.baml
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\Controls\Details.baml
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\FamilyShow.g.resources
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\Microsoft.FamilyShow.Properties.Resources.resources
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\FamilyShow.csproj.GenerateResource.Cache
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\FamilyShow.exe
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\obj\Debug\FamilyShow.pdb
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShow\bin\Debug\Images\b.jpg
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\bin\Debug\Skins\Silver\SilverResources.xaml
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\bin\Debug\Skins\Black\BlackResources.xaml
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\bin\Debug\Images\b.jpg
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\bin\Debug\FamilyShow.exe.config
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\bin\Debug\FamilyShow.exe
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\bin\Debug\FamilyShow.pdb
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\bin\Debug\FamilyShowLib.dll
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\bin\Debug\FamilyShowLib.pdb
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\FamilyShow.csprojResolveAssemblyReference.cache
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\Controls\OldVersionMessage.baml
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\Controls\FamilyData\FilterText.baml
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\Controls\Welcome.baml
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\App.baml
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\Controls\OldVersionMessage.g.cs
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\Controls\Diagram\DiagramViewer.g.cs
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\Controls\FamilyData\FamilyData.g.cs
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\Controls\FamilyData\FilterText.g.cs
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\Controls\FamilyData\Histogram.g.cs
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\Controls\NewUserControl.g.cs
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\Controls\PersonInfo.g.cs
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\Controls\FamilyData\SharedBirthdays.g.cs
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\Controls\FamilyData\TagCloud.g.cs
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\Controls\Welcome.g.cs
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\MainWindow.g.cs
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\Controls\Details.g.cs
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\App.g.cs
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\FamilyShow_Content.g.cs
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\FamilyShow_MarkupCompile.cache
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\FamilyShow_MarkupCompile.lref
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\Controls\Diagram\DiagramViewer.baml
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\Controls\FamilyData\FamilyData.baml
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\Controls\FamilyData\Histogram.baml
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\Controls\NewUserControl.baml
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\Controls\PersonInfo.baml
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\Controls\FamilyData\SharedBirthdays.baml
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\Controls\FamilyData\TagCloud.baml
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\MainWindow.baml
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\Controls\Details.baml
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\FamilyShow.g.resources
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\Microsoft.FamilyShow.Properties.Resources.resources
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\FamilyShow.csproj.GenerateResource.Cache
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\FamilyShow.exe
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\FamilyShow.pdb

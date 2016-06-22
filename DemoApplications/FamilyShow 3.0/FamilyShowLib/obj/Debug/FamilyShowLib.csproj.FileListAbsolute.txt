@@ -1,0 +1,24 @@
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShowLib\bin\Debug\FamilyShowLib.dll
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShowLib\bin\Debug\FamilyShowLib.pdb
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShowLib\obj\Debug\FamilyShowLib.dll
+C:\_BUCHE\TVD\_PROJECTS\WindowsDeveloper DebuggingVS2015\Code\familyshow\3.0\FamilyShowLib\obj\Debug\FamilyShowLib.pdb
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShowLib\bin\Debug\FamilyShowLib.dll
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShowLib\bin\Debug\FamilyShowLib.pdb
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShowLib\obj\Debug\FamilyShowLib.csprojResolveAssemblyReference.cache
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShowLib\obj\Debug\FamilyShowLib.dll
+G:\_BUCHENEW\TVD\_PROJECTS\TVD.Training\MOC20483 Demos\familyshow\3.0\FamilyShowLib\obj\Debug\FamilyShowLib.pdb
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShowLib\bin\Debug\FamilyShowLib.dll
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShowLib\bin\Debug\FamilyShowLib.pdb
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShowLib\obj\Debug\FamilyShowLib.csprojResolveAssemblyReference.cache
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShowLib\obj\Debug\FamilyShowLib.dll
+D:\__TEMPNODELETE\DDC2015\3.0\FamilyShowLib\obj\Debug\FamilyShowLib.pdb
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShowLib\bin\Debug\FamilyShowLib.dll
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShowLib\bin\Debug\FamilyShowLib.pdb
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShowLib\obj\Debug\FamilyShowLib.csprojResolveAssemblyReference.cache
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShowLib\obj\Debug\FamilyShowLib.dll
+D:\__TEMPNODELETE\DDC2015\FamilyShow 3.0 - Copy\FamilyShowLib\obj\Debug\FamilyShowLib.pdb
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShowLib\bin\Debug\FamilyShowLib.dll
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShowLib\bin\Debug\FamilyShowLib.pdb
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShowLib\obj\Debug\FamilyShowLib.csprojResolveAssemblyReference.cache
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShowLib\obj\Debug\FamilyShowLib.dll
+D:\_TFSMME\2016_Troubleshooting\MAIN\FamilyShow 3.0 - STARTER\FamilyShowLib\obj\Debug\FamilyShowLib.pdb

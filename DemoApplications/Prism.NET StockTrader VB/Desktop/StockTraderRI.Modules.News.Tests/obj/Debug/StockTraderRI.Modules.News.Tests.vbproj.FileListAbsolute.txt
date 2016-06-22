@@ -1,0 +1,34 @@
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\StockTraderRI.Modules.News.Tests.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\StockTraderRI.Modules.News.Tests.pdb
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\Microsoft.Practices.Prism.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\Moq.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\StockTraderRI.Infrastructure.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\StockTraderRI.Modules.News.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\StockTraderRI.Infrastructure.pdb
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\StockTraderRI.Infrastructure.xml
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\StockTraderRI.Modules.News.pdb
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\Moq.pdb
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\Moq.xml
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\Microsoft.Practices.Prism.xml
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.News.Tests\obj\Debug\StockTraderRI.Modules.News.Tests.vbprojResolveAssemblyReference.cache
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.News.Tests\obj\Debug\StockTraderRI.Modules.News.Tests.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI.Modules.News.Tests\obj\Debug\StockTraderRI.Modules.News.Tests.pdb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\StockTraderRI.Modules.News.Tests.dll
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\StockTraderRI.Modules.News.Tests.pdb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\StockTraderRI.Infrastructure.dll
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\StockTraderRI.Modules.News.dll
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\StockTraderRI.Infrastructure.pdb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\StockTraderRI.Infrastructure.xml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\StockTraderRI.Modules.News.pdb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\Moq.pdb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\Moq.xml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.News.Tests\bin\Debug\Microsoft.Practices.Prism.xml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.News.Tests\obj\Debug\StockTraderRI.Modules.News.Tests.vbprojResolveAssemblyReference.cache
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.News.Tests\obj\Debug\StockTraderRI.Modules.News.Tests.dll
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI.Modules.News.Tests\obj\Debug\StockTraderRI.Modules.News.Tests.pdb

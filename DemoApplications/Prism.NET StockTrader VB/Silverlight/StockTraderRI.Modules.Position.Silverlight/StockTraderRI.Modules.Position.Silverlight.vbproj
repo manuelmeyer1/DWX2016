@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(MSBuildToolsVersion)' == '3.5'">
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C349EEAC-B1CB-4D24-AB88-F89B08A16C4D}</ProjectGuid>
+    <ProjectTypeGuids>{A1591282-1198-4647-A2B1-27E5FF5F6F3B};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>
+    </RootNamespace>
+    <AssemblyName>StockTraderRI.Modules.Position</AssemblyName>
+    <TargetFrameworkVersion>v5.0</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <SilverlightApplication>false</SilverlightApplication>
+    <ValidateXaml>true</ValidateXaml>
+    <ThrowErrorsInValidation>false</ThrowErrorsInValidation>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkIdentifier>Silverlight</TargetFrameworkIdentifier>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DefineConstants>SILVERLIGHT=True</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRules>
+    </CodeAnalysisRules>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+    <CodeAnalysisRuleSet>Migrated rules for StockTraderRI.Modules.Position.Silverlight.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DefineConstants>SILVERLIGHT=True</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+    <CodeAnalysisRules>
+    </CodeAnalysisRules>
+    <CodeAnalysisRuleSet>Migrated rules for StockTraderRI.Modules.Position.Silverlight.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Practices.Prism.MefExtensions">
+      <HintPath>..\..\..\Bin\Silverlight\Microsoft.Practices.Prism.MefExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.ServiceLocation">
+      <HintPath>..\..\..\LIB\Silverlight\CommonServiceLocation\Microsoft.Practices.ServiceLocation.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity.Silverlight">
+      <HintPath>..\..\..\LIB\Silverlight\Unity\Microsoft.Practices.Unity.Silverlight.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Composition, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows" />
+    <Reference Include="mscorlib" />
+    <Reference Include="system" />
+    <Reference Include="System.Windows.Controls, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Windows.Controls.Data, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Windows.Controls.DataVisualization.Toolkit, Version=4.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\..\LIB\Silverlight\SilverlightToolkit\System.Windows.Controls.DataVisualization.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Controls.Toolkit, Version=4.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\..\..\LIB\Silverlight\SilverlightToolkit\System.Windows.Controls.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Windows.Browser" />
+    <Reference Include="System.Xml.Linq, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Practices.Prism">
+      <HintPath>..\..\..\Bin\Silverlight\Microsoft.Practices.Prism.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position\Controllers\IOrdersController.vb">
+      <Link>Controllers\IOrdersController.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position\Controllers\OrdersController.vb">
+      <Link>Controllers\OrdersController.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position\Interfaces\IOrdersService.vb">
+      <Link>Interfaces\IOrdersService.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position\Interfaces\IOrdersView.vb">
+      <Link>Interfaces\IOrdersView.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position\Models\Order.vb">
+      <Link>Models\Order.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position\Models\TransactionInfo.vb">
+      <Link>Models\TransactionInfo.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position\Orders\IOrderCompositeViewModel.vb">
+      <Link>Orders\IOrderCompositeViewModel.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position\Orders\IOrderDetailsViewModel.vb">
+      <Link>Orders\IOrderDetailsViewModel.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position\Orders\IOrdersViewModel.vb">
+      <Link>Orders\IOrdersViewModel.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position\Orders\OrderCompositeViewModel.vb">
+      <Link>Orders\OrderCompositeViewModel.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position\Orders\OrderDetailsViewModel.vb">
+      <Link>Orders\OrderDetailsViewModel.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position\Orders\OrdersViewModel.vb">
+      <Link>Orders\OrdersViewModel.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position\Orders\OrderType.vb">
+      <Link>Orders\OrderType.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position\Orders\TimeInForce.vb">
+      <Link>Orders\TimeInForce.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position\Orders\ValueDescription.vb">
+      <Link>Orders\ValueDescription.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position\PositionModule.vb">
+      <Link>PositionModule.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position\PositionSummary\IObservablePosition.vb">
+      <Link>PositionSummary\IObservablePosition.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position\PositionSummary\IPositionPieChartViewModel.vb">
+      <Link>PositionSummary\IPositionPieChartViewModel.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position\PositionSummary\IPositionSummaryViewModel.vb">
+      <Link>PositionSummary\IPositionSummaryViewModel.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position\PositionSummary\ObservablePosition.vb">
+      <Link>PositionSummary\ObservablePosition.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position\PositionSummary\PositionPieChartViewModel.vb">
+      <Link>PositionSummary\PositionPieChartViewModel.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position\PositionSummary\PositionSummaryItem.vb">
+      <Link>PositionSummary\PositionSummaryItem.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position\PositionSummary\PositionSummaryViewModel.vb">
+      <Link>PositionSummary\PositionSummaryViewModel.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position\My Project\Resources.Designer.vb">
+      <Link>My Project\Resources.Designer.vb</Link>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position\Services\AccountPositionService.vb">
+      <Link>Services\AccountPositionService.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position\Services\XmlOrdersService.vb">
+      <Link>Services\XmlOrdersService.vb</Link>
+    </Compile>
+    <Compile Include="GlobalSuppressions.vb" />
+    <Compile Include="Orders\OrderCommandsView.xaml.vb">
+      <DependentUpon>OrderCommandsView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Orders\OrderCompositeViewModel.Silverlight.vb" />
+    <Compile Include="Orders\OrderCompositeView.xaml.vb">
+      <DependentUpon>OrderCompositeView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Orders\OrderDetailsView.xaml.vb">
+      <DependentUpon>OrderDetailsView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Orders\OrdersViewModel.Silverlight.vb" />
+    <Compile Include="Orders\OrdersView.xaml.vb">
+      <DependentUpon>OrdersView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PositionSummary\PositionPieChartView.xaml.vb">
+      <DependentUpon>PositionPieChartView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PositionSummary\PositionSummaryView.xaml.vb">
+      <DependentUpon>PositionSummaryView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\StockTraderRI.Infrastructure.Silverlight\StockTraderRI.Infrastructure.Silverlight.vbproj">
+      <Project>{1C3517FB-89B0-4726-9D78-3C7E28C9E49E}</Project>
+      <Name>StockTraderRI.Infrastructure.Silverlight</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\..\Desktop\StockTraderRI.Modules.Position\Data\AccountPositions.xml">
+      <Link>Data\AccountPositions.xml</Link>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="..\..\Desktop\StockTraderRI.Modules.Position\My Project\Resources.resx">
+      <Link>My Project\Resources.resx</Link>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="Orders\OrderCommandsView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Orders\OrderCompositeView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Orders\OrderDetailsView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Orders\OrdersView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="PositionSummary\PositionPieChartView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="PositionSummary\PositionSummaryView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Migrated rules for StockTraderRI.Modules.Position.Silverlight.ruleset" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Silverlight\$(SilverlightVersion)\Microsoft.Silverlight.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{A1591282-1198-4647-A2B1-27E5FF5F6F3B}">
+        <SilverlightProjectProperties />
+      </FlavorProperties>
+      <UserProperties ProjectLinkReference="46f2da52-acb0-4183-912f-7cc29971ed50" ProjectLinkerExcludeFilter="\\?desktop(\\.*)?$;\\?silverlight(\\.*)?$;\.desktop;\.silverlight;\.xaml;^service references(\\.*)?$;\.clientconfig;^web references(\\.*)?$" Notes="&lt;Notes Project=&quot;c349eeac-b1cb-4d24-ab88-f89b08a16c4d&quot; xmlns=&quot;clr-namespace:StickyNotes.Model;assembly=StickyNotes&quot;&gt;&lt;Notes.StickyNotes&gt;&lt;Note FilePath=&quot;&quot; Content=&quot;&quot; Date=&quot;2009-01-02T10:30:40.0131776-08:00&quot; /&gt;&lt;/Notes.StickyNotes&gt;&lt;/Notes&gt;" />
+    </VisualStudio>
+    <UserProperties ProjectLinkerExcludeFilter="\\?desktop(\\.*)?$;\\?silverlight(\\.*)?$;\.desktop;\.silverlight;\.xaml;^service references(\\.*)?$;\.clientconfig;^web references(\\.*)?$" ProjectLinkReference="46F2DA52-ACB0-4183-912F-7CC29971ED50" />
+  </ProjectExtensions>
+</Project>

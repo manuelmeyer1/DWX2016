@@ -1,0 +1,20 @@
+﻿FamilyShow
+
+
+winexe
+C#
+.cs
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\obj\Debug\
+Microsoft.FamilyShow
+none
+false
+DEBUG;TRACE
+D:\__TEMP\New folder\FamilyShow 3.0\FamilyShow\App.xaml
+122087819094
+32104201090
+34-1956060614
+201572296631
+Controls\OldVersionMessage.xaml;Controls\Diagram\DiagramViewer.xaml;Controls\FamilyData\FamilyData.xaml;Controls\FamilyData\FilterText.xaml;Controls\FamilyData\Histogram.xaml;Controls\NewUserControl.xaml;Controls\PersonInfo.xaml;Controls\FamilyData\SharedBirthdays.xaml;Controls\FamilyData\TagCloud.xaml;Controls\Welcome.xaml;MainWindow.xaml;Controls\Details.xaml;
+
+True
+

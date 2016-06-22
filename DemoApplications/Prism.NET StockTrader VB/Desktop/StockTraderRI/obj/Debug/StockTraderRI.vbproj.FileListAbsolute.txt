@@ -1,0 +1,203 @@
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe.config
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\Data\Market.xml
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\Data\MarketHistory.xml
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\Services\MarketFeedService.vb
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\Services\MarketHistoryService.vb
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.pdb
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Prism.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Prism.MefExtensions.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Unity.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Infrastructure.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.Market.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.News.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.Position.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.Watch.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.ChartControls.dll
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Infrastructure.pdb
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Infrastructure.xml
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.Market.pdb
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.News.pdb
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.Position.pdb
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.Watch.pdb
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Prism.MefExtensions.xml
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Unity.xml
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Prism.xml
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\bin\Debug\StockTraderRI.ChartControls.pdb
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\obj\Debug\StockTraderRI.vbprojResolveAssemblyReference.cache
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\obj\Debug\Controls\RoundedBox.baml
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\obj\Debug\Resources\Styles.baml
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\obj\Debug\Resources\TabItemResource.baml
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\obj\Debug\Resources\WindowRegionResource.baml
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\obj\Debug\Application.baml
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\obj\Debug\Controls\RoundedBox.g.vb
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\obj\Debug\Shell.g.vb
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\obj\Debug\Application.g.vb
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\obj\Debug\GeneratedInternalTypeHelper.g.vb
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\obj\Debug\StockTraderRI_MarkupCompile.cache
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\obj\Debug\StockTraderRI_MarkupCompile.lref
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\obj\Debug\Themes\generic.baml
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\obj\Debug\Shell.baml
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\obj\Debug\StockTraderRI.g.resources
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\obj\Debug\Resources.resources
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\obj\Debug\StockTraderRI.vbproj.GenerateResource.Cache
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\obj\Debug\StockTraderRI.exe
+E:\WindowsDeveloper DebuggingVS2015\Code\PrismVB\StockTrader RI\Desktop\StockTraderRI\obj\Debug\StockTraderRI.pdb
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe.config
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\obj\Debug\StockTraderRI.exe
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\obj\Debug\StockTraderRI.pdb
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\Data\Market.xml
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\Data\MarketHistory.xml
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\Services\MarketFeedService.vb
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\Services\MarketHistoryService.vb
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.pdb
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Infrastructure.dll
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.Market.dll
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.News.dll
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.Position.dll
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.Watch.dll
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.ChartControls.dll
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Infrastructure.pdb
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Infrastructure.xml
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.Market.pdb
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.News.pdb
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.Position.pdb
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.Watch.pdb
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Prism.MefExtensions.xml
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Unity.xml
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Prism.xml
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.ChartControls.pdb
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\obj\Debug\StockTraderRI.vbprojResolveAssemblyReference.cache
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\obj\Debug\Controls\RoundedBox.baml
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\obj\Debug\Resources\Styles.baml
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\obj\Debug\Resources\TabItemResource.baml
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\obj\Debug\Resources\WindowRegionResource.baml
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\obj\Debug\Application.baml
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\obj\Debug\Controls\RoundedBox.g.vb
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\obj\Debug\Shell.g.vb
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\obj\Debug\Application.g.vb
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\obj\Debug\GeneratedInternalTypeHelper.g.vb
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\obj\Debug\StockTraderRI_MarkupCompile.cache
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\obj\Debug\StockTraderRI_MarkupCompile.lref
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\obj\Debug\Themes\generic.baml
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\obj\Debug\Shell.baml
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\obj\Debug\StockTraderRI.g.resources
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\obj\Debug\Resources.resources
+D:\_BUCHE2\TVD\_PROJECTS\Training\MOC20483 Demos\Prism.NET StockTrader VB\Desktop\StockTraderRI\obj\Debug\StockTraderRI.vbproj.GenerateResource.Cache
+D:\__TEMPNODELETE\20150901_Basta2015\Demos\WPFStartup\Prism.NET StockTrader VB\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe.config
+D:\__TEMPNODELETE\20150901_Basta2015\Demos\WPFStartup\Prism.NET StockTrader VB\Desktop\StockTraderRI\obj\Debug\StockTraderRI.exe
+D:\__TEMPNODELETE\20150901_Basta2015\Demos\WPFStartup\Prism.NET StockTrader VB\Desktop\StockTraderRI\obj\Debug\StockTraderRI.pdb
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe.config
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\obj\Debug\StockTraderRI.exe
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\obj\Debug\StockTraderRI.pdb
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\Data\Market.xml
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\Data\MarketHistory.xml
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\Services\MarketFeedService.vb
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\Services\MarketHistoryService.vb
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.pdb
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Infrastructure.dll
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.Market.dll
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.News.dll
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.Position.dll
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.Watch.dll
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.ChartControls.dll
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Infrastructure.pdb
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Infrastructure.xml
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.Market.pdb
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.News.pdb
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.Position.pdb
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.Watch.pdb
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Prism.MefExtensions.xml
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Unity.xml
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Prism.xml
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\bin\Debug\StockTraderRI.ChartControls.pdb
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\obj\Debug\StockTraderRI.vbprojResolveAssemblyReference.cache
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\obj\Debug\Controls\RoundedBox.baml
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\obj\Debug\Resources\Styles.baml
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\obj\Debug\Resources\TabItemResource.baml
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\obj\Debug\Resources\WindowRegionResource.baml
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\obj\Debug\Application.baml
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\obj\Debug\Controls\RoundedBox.g.vb
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\obj\Debug\Shell.g.vb
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\obj\Debug\Application.g.vb
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\obj\Debug\GeneratedInternalTypeHelper.g.vb
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\obj\Debug\StockTraderRI_MarkupCompile.cache
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\obj\Debug\StockTraderRI_MarkupCompile.lref
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\obj\Debug\Themes\generic.baml
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\obj\Debug\Shell.baml
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\obj\Debug\StockTraderRI.g.resources
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\obj\Debug\Resources.resources
+D:\__TEMPNODELETE\DDC2015\Prism.NET StockTrader VB - Starter\Desktop\StockTraderRI\obj\Debug\StockTraderRI.vbproj.GenerateResource.Cache
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe.config
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Debug\StockTraderRI.exe
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Debug\StockTraderRI.pdb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\Data\Market.xml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\Data\MarketHistory.xml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\Services\MarketFeedService.vb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\Services\MarketHistoryService.vb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.exe
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.pdb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Infrastructure.dll
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.Market.dll
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.News.dll
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.Position.dll
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.Watch.dll
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.ChartControls.dll
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Infrastructure.pdb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Infrastructure.xml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.Market.pdb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.News.pdb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.Position.pdb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.Modules.Watch.pdb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Prism.MefExtensions.xml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Unity.pdb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Unity.xml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.Prism.xml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\bin\Debug\StockTraderRI.ChartControls.pdb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Debug\StockTraderRI.vbprojResolveAssemblyReference.cache
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Debug\Controls\RoundedBox.baml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Debug\Resources\Styles.baml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Debug\Resources\TabItemResource.baml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Debug\Resources\WindowRegionResource.baml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Debug\Application.baml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Debug\Controls\RoundedBox.g.vb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Debug\Shell.g.vb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Debug\Application.g.vb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Debug\GeneratedInternalTypeHelper.g.vb
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Debug\StockTraderRI_MarkupCompile.cache
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Debug\StockTraderRI_MarkupCompile.lref
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Debug\Themes\generic.baml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Debug\Shell.baml
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Debug\StockTraderRI.g.resources
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Debug\Resources.resources
+D:\_TFSMME\2016_Troubleshooting\MAIN\Prism.NET StockTrader VB - STARTER\Desktop\StockTraderRI\obj\Debug\StockTraderRI.vbproj.GenerateResource.Cache

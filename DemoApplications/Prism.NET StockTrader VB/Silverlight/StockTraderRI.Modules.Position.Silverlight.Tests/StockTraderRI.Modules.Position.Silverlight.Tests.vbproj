@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(MSBuildToolsVersion)' == '3.5'">
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{20D0EB67-CE28-4AD7-B519-E47E4F2C27DE}</ProjectGuid>
+    <ProjectTypeGuids>{A1591282-1198-4647-A2B1-27E5FF5F6F3B};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>
+    </RootNamespace>
+    <AssemblyName>StockTraderRI.Modules.Position.Tests</AssemblyName>
+    <TargetFrameworkVersion>v5.0</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>
+    </SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>StockTraderRI.Modules.Position.Silverlight.Tests.xap</XapFilename>
+    <SilverlightManifestTemplate>My Project\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>StockTraderRI.Modules.Position.Tests.App</SilverlightAppEntry>
+    <TestPageFileName>TestPage.html</TestPageFileName>
+    <CreateTestPage>true</CreateTestPage>
+    <ValidateXaml>true</ValidateXaml>
+    <ThrowErrorsInValidation>false</ThrowErrorsInValidation>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkIdentifier>Silverlight</TargetFrameworkIdentifier>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DefineConstants>SILVERLIGHT=True</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRules>
+    </CodeAnalysisRules>
+    <CodeAnalysisRuleSet>Migrated rules for StockTraderRI.Modules.Position.Silverlight.Tests.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DefineConstants>SILVERLIGHT=True</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRules>
+    </CodeAnalysisRules>
+    <CodeAnalysisRuleSet>Migrated rules for StockTraderRI.Modules.Position.Silverlight.Tests.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Practices.ServiceLocation, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\LIB\Silverlight\CommonServiceLocation\Microsoft.Practices.ServiceLocation.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity.Silverlight">
+      <HintPath>..\..\..\LIB\Silverlight\Unity\Microsoft.Practices.Unity.Silverlight.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Silverlight.Testing, Version=2.0.20930.1042, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\LIB\Silverlight\UnitTestFramework\Microsoft.Silverlight.Testing.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight, Version=2.0.20930.1042, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\LIB\Silverlight\UnitTestFramework\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll</HintPath>
+    </Reference>
+    <Reference Include="Moq.Silverlight">
+      <HintPath>..\..\..\LIB\Silverlight\Moq\Moq.Silverlight.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Composition, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows" />
+    <Reference Include="mscorlib" />
+    <Reference Include="system" />
+    <Reference Include="System.Windows.Browser" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Practices.Prism">
+      <HintPath>..\..\..\Bin\Silverlight\Microsoft.Practices.Prism.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position.Tests\AccountPositionModelFixture.vb">
+      <Link>AccountPositionModelFixture.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position.Tests\Controllers\OrdersControllerFixture.vb">
+      <Link>Controllers\OrdersControllerFixture.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position.Tests\Mocks\MockAccountPositionService.vb">
+      <Link>Mocks\MockAccountPositionService.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position.Tests\Mocks\MockLogger.vb">
+      <Link>Mocks\MockLogger.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position.Tests\Mocks\MockMarketFeedService.vb">
+      <Link>Mocks\MockMarketFeedService.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position.Tests\Mocks\MockMarketHistoryService.vb">
+      <Link>Mocks\MockMarketHistoryService.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position.Tests\Mocks\MockOrderDetailsPresentationModel.vb">
+      <Link>Mocks\MockOrderDetailsPresentationModel.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position.Tests\Mocks\MockOrdersController.vb">
+      <Link>Mocks\MockOrdersController.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position.Tests\Mocks\MockRegionManager.vb">
+      <Link>Mocks\MockRegionManager.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position.Tests\Mocks\MockStockTraderRICommandProxy.vb">
+      <Link>Mocks\MockStockTraderRICommandProxy.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position.Tests\Orders\OrderCompositePresenterFixture.vb">
+      <Link>Orders\OrderCompositePresenterFixture.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position.Tests\Orders\OrderDetailsPresenterFixture.vb">
+      <Link>Orders\OrderDetailsPresenterFixture.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position.Tests\PositionSummary\ObservablePositionFixture.vb">
+      <Link>PositionSummary\ObservablePositionFixture.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position.Tests\PositionSummary\PositionPieChartPresentationModelFixture.vb">
+      <Link>PositionSummary\PositionPieChartPresentationModelFixture.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position.Tests\PositionSummary\PositionSummaryItemFixture.vb">
+      <Link>PositionSummary\PositionSummaryItemFixture.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position.Tests\PositionSummary\PositionSummaryPresentationModelFixture.vb">
+      <Link>PositionSummary\PositionSummaryPresentationModelFixture.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Desktop\StockTraderRI.Modules.Position.Tests\Services\XmlOrdersServiceFixture.vb">
+      <Link>Services\XmlOrdersServiceFixture.vb</Link>
+    </Compile>
+    <Compile Include="Application.xaml.vb">
+      <DependentUpon>Application.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="Application.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Migrated rules for StockTraderRI.Modules.Position.Silverlight.Tests.ruleset" />
+    <None Include="My Project\AppManifest.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\StockTraderRI.Infrastructure.Silverlight\StockTraderRI.Infrastructure.Silverlight.vbproj">
+      <Project>{1C3517FB-89B0-4726-9D78-3C7E28C9E49E}</Project>
+      <Name>StockTraderRI.Infrastructure.Silverlight</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StockTraderRI.Modules.Position.Silverlight\StockTraderRI.Modules.Position.Silverlight.vbproj">
+      <Project>{C349EEAC-B1CB-4D24-AB88-F89B08A16C4D}</Project>
+      <Name>StockTraderRI.Modules.Position.Silverlight</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="PresentationModels\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Silverlight\$(SilverlightVersion)\Microsoft.Silverlight.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{A1591282-1198-4647-A2B1-27E5FF5F6F3B}">
+        <SilverlightProjectProperties />
+      </FlavorProperties>
+      <UserProperties ProjectLinkReference="02c15b36-49c4-4c98-81ee-dfaca87fd965" ProjectLinkerExcludeFilter="\\?desktop(\\.*)?$;\\?silverlight(\\.*)?$;\.desktop;\.silverlight;\.xaml;^service references(\\.*)?$;\.clientconfig;^web references(\\.*)?$" />
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>
